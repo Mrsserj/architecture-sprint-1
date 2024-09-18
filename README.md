@@ -31,9 +31,11 @@
 
 2) npm run start - для запуска приложения
 
+Запуск вызывает ошибки настройки пакетов, поэтому протестировать работу приложения не удалось.
+
 ## Задание 2
 
-Ссылка на задание https://drive.google.com/file/d/1wi9WBrlAJ00q05QnWMxsDgrL3aqw7Jvi/view?usp=drive_link
+Ссылка на задание https://drive.google.com/file/d/1wi9WBrlAJ00q05QnWMxsDgrL3aqw7Jvi/view?usp=sharing
 
 ### Объектная модель
 
